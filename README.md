@@ -1,6 +1,6 @@
 ### 👋 Hi, ich bin Lukas.
-- Als Analytics Developer bin ich beruflich in DAX unterwegs (Data Analaytics Expressions) und modelliere Daten in MS Power BI
-- 2020 habe ich meine Tech-Datenreise begonnen, wobei Python mein Ding ist - eine glückliche Never-Ending-Story
+- Als Analytics Developer bin ich beruflich in DAX unterwegs (Data Analytics Expressions) und modelliere Daten in MS Power BI
+- 2020 habe ich meine Tech-Datenreise begonnen, wobei ich auf Python setze - eine glückliche Never-Ending-Story 😊
 - Nebenbei lerne ich in Sachen AWS Cloud immer dazu und begeistere mich außerdem für Web Development
 
 <!--
