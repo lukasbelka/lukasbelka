@@ -1,7 +1,7 @@
-### 👋 Hi, ich bin Lukas.
-- Als Analytics Developer bin ich beruflich in DAX unterwegs (Data Analytics Expressions) und modelliere Daten in MS Power BI
-- 2020 habe ich meine Tech-Datenreise begonnen, wobei ich auf Python setze - eine glückliche Never-Ending-Story 😊
-- Nebenbei lerne ich in Sachen AWS Cloud immer dazu und begeistere mich außerdem für Web Development
+### 👋 Hi, I'm an Analytics Developer.
+- On an daily basis I work with DAX (Data Analytics Expressions) in Power BI
+- My tech-data-journey intensified a few years ago, when I got addicted to Python 😊
+- Currently I'm in topics like AWS Cloud, APIs and web based data visualization 
 
 <!--
 **lukasbelka/lukasbelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
