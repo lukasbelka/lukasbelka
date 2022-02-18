@@ -1,6 +1,6 @@
 ### 👋🏻 &nbsp; Hi, I'm an Analytics Developer.
-- On an daily basis I work with DAX (Data Analytics Expressions) in Power BI
-- My tech-data-journey intensified a few years ago, when I got addicted to Python 😊
+- I work with DAX (Data Analytics Expressions) in Power BI
+- My tech-data-journey intensified a few years ago, with Python
 - Currently I'm in topics like AWS Cloud, APIs and web based data visualization 
 
 <!--
