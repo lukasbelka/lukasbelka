@@ -1,7 +1,7 @@
 ### 👋🏻 &nbsp; Hi, I'm an Analytics Developer.
-- I work with DAX (Data Analytics Expressions) in Power BI
 - My tech-data-journey intensified a few years ago, with Python
-- Currently I'm in topics like AWS Cloud, APIs and web based data visualization 
+- I work a lot with DAX (Data Analytics Expressions)
+- Currently I'm in topics like AWS Cloud and APIs 
 
 <!--
 **lukasbelka/lukasbelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
