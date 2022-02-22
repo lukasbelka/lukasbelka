@@ -1,5 +1,5 @@
 ### 👋🏻 &nbsp; Hi, I'm an Analytics Developer.
-- My tech-data-journey intensified a few years ago, with Python
+- My tech-data-journey intensified a few years ago with Python
 - I work a lot with DAX (Data Analytics Expressions)
 - Currently I'm in topics like AWS Cloud and APIs 
 
