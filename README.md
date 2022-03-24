@@ -1,7 +1,6 @@
-### 👋🏻 &nbsp; Hi, I'm an Analytics Developer.
-- My tech-data-journey intensified a few years ago with Python
-- I work a lot with DAX (Data Analytics Expressions)
-- Currently I'm in topics like AWS Cloud and APIs 
+### 👋🏻 &nbsp; Hi there!
+I'm Lukas, a German-based analytics developer. My tech-data-journey intensified a few years ago with Python,
+however I work a lot with DAX too (Data Analytics Expressions). Currently I'm in topics like AWS Cloud and APIs. 
 
 <!--
 **lukasbelka/lukasbelka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
