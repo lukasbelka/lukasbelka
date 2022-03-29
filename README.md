@@ -17,21 +17,21 @@
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
-Python
+Python <br>
 Flask
 </div>
 
 </td><td valign="top" width="33%">
 
 <div align="center">  
-AWS
+AWS <br>
 Git
 </div>
 
 </td><td valign="top" width="33%">
 
 <div align="center">  
-Linux
+Linux <br>
 Bash
 </div>
 
