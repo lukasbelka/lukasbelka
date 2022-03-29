@@ -34,5 +34,9 @@ Git
 Linux <br>
 Bash
 </div>
+  
+<div align="center">  
+DAX
+</div>
 
 </td></tr></table>
