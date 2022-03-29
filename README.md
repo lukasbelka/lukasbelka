@@ -3,7 +3,7 @@
 ### I'm Lukas, a German-based analytics developer working in the financial industry since 2009. 
   
 
-- 💻 My tech-data-journey started few years ago with Python  
+- 💻 My tech-data-journey started a few years ago with Python  
 
 - 📊 Analysing data with Pandas  
 
