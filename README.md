@@ -1,44 +1,12 @@
 ### 👋🏻 &nbsp; Hi there!
 
-### I'm Lukas, a German-based analytics developer working in the financial industry since 2009. 
+### I'm Lukas, a German-based analytics developer and web dev fan, who works in the financial industry since 2009. 
   
 
-- 💻 My tech-data-journey started a few years ago with Python  
+- 💻 My tech-data-journey started with Python  
 
 - 📊 Analysing data with Pandas  
 
-- 💡 Currently in Flask and Plotly  
+- 💡 Currently in Flask, Plotly and JavaScript  
 
-- ❓ Interested in AWS and APIs  
-  
-
-## Stack  
-
-<table><tr><td valign="top" width="33%">
-
-<div align="center">  
-Python <br>
-Flask
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-AWS <br>
-Git
-</div>
-
-</td><td valign="top" width="33%">
-
-<div align="center">  
-Linux <br>
-Bash
-</div>
-  
-</td><td valign="top" width="33%">
-  
-<div align="center">  
-DAX
-</div>
-
-</td></tr></table>
+- ❓ Interested in AWS and APIs
