@@ -1,6 +1,6 @@
 ### 👋🏻 &nbsp; Hi there!
 
-### I'm Lukas, a German-based Analytics Developer, certified Data Analyst and Web Dev fan, who works in the (re)insurance industry since 2009.
+### I'm Lukas, an Analytics Developer and certified Data Analyst who is interested in web development.
 
 - 💻 I use SQL and Python but I also like JavaScript.
 
