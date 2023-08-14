@@ -8,4 +8,4 @@
 
 - 💡 Currently in (No)SQL Databases, Svelte and D3.js (frontend stuff).
 
-- ❓ Interested in web technologies and playing around with lots of things.
+- ❓ Interested in web technologies and tinkering with Data Science an ML.
