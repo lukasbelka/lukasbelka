@@ -17,4 +17,4 @@ I am a certified data professional and lifelong learner dedicated to designing s
 * Certified Data Analyst Professional (DataCamp)
 
 ---
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/lukasbelka/) | [Email](mailto:firstname.surname@gmail.com)
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/lukasbelka/) | Email: firstnamelastname[at]gmail.com
