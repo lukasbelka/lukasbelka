@@ -2,7 +2,7 @@
 
 ### Data & BI Systems Architect | Re/Insurance Industry Expert (Since 2009)
 
-I am a certified data professional and lifelong learner dedicated to designing scalable data architectures and BI systems. With over 15 years of experience in the re/insurance sector, I bridge the gap between complex industry requirements and production-ready data solutions, translating between both worlds, business and IT.
+I am a certified data professional and lifelong learner dedicated to designing scalable data architectures and BI systems. With over 17 years of experience in the re/insurance sector, I bridge the gap between complex industry requirements and production-ready data solutions, translating between both worlds, business and IT.
 
 ---
 
